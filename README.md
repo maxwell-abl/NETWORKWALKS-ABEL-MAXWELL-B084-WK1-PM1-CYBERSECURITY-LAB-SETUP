@@ -27,3 +27,6 @@ A baseline snapshot named "full submission" was taken to save the clean state of
 
 ## Troubleshooting Experience
 During the lab setup, I encountered challenges understanding the network configuration in Oracle VirtualBox and verifying the IP address assigned to my Kali Linux virtual machine. I reviewed the network settings and adjusted the configuration to match the intended lab requirements. I also organized screenshots of the virtual machine settings and network configuration to document the process. This experience helped me understand the importance of verifying network settings and documenting configuration changes accurately.
+
+## Connect with Me
+- *LinkedIn Post:* https://lnkd.in/p/deeRRreX
